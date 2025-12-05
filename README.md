@@ -1,6 +1,6 @@
 # OBPoker 🎲
 
-Ottobock Planning Poker - Agile Story Estimation Tool
+Planning Poker - Agile Story Estimation Tool
 
 ## Verwendung
 
@@ -24,4 +24,5 @@ Siehe `DEPLOYMENT.md` für Anleitung zu:
 
 ---
 
-**Entwickelt für Ottobock** 🔵
+**Entwickelt von Luis Rentschler** 🔵
+
